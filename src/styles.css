@@ -1,0 +1,27 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Are+You+Serious&display=swap');
+
+html, body { height: 100%; }
+body { margin: 0; font-family: 'Are You Serious', cursive; }
+.text-center {
+    text-align: center;
+}
+
+body{
+    background: #7132CA;
+    background: -webkit-linear-gradient(top left, #7132CA, #1F030B);
+    background: -moz-linear-gradient(top left, #7132CA, #1F030B);
+    background: linear-gradient(to bottom right, #7132CA, #1F030B);
+}
+
+.p-8 {
+    padding: 8px;
+}
+
+.p-16 {
+    padding: 16px;
+}
+
+.p-32 {
+    padding: 32px;
+}
